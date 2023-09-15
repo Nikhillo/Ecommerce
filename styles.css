@@ -1,0 +1,74 @@
+/* .main{
+    background-color: black;
+    width:60vh;
+    height: 100%;
+    list-style: none;
+    justify-content: center;
+    position: absolute;
+} */
+
+/* #car1{
+    height: 100px;
+    width: 120px;
+        background-color: red;
+        position: absolute;
+}
+#car2{
+    position: absolute;
+    height: 110px;
+    width: 90px;
+        background-color: aquamarine;
+        top: 20%;
+        left: 40%;
+       
+}
+#car3{
+    height: 130px;
+    width: 110px;
+        background-color: green;
+         position: absolute;
+         left: 50%;
+    } */
+
+    /* #box{
+        position: relative;
+        width: 300px;
+        height: 300px;
+        background-color: red;
+
+    }
+    #chhota{
+                              position: absolute;
+        left:40%;
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+    } */
+    #box{
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        height: 500px;
+        width:500px;
+        background-color: grey;
+        
+    }
+    #box1{
+    
+          
+        height: 100px;
+        width: 100px;
+        background-color: black;
+    }
+    #box2 {
+        margin : 20%;
+        height: 100px;
+        width: 110px;
+        background-color: violet;
+    }
+    #box3{
+        margin : 20%;
+        height: 100px;
+        width: 120px;
+        background-color: red;
+    }
